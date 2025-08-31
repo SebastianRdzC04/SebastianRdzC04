@@ -1,15 +1,18 @@
-# 👋 ¡Hola! Soy Sebastian Rodriguez Contreras  
-
-🎓 Estudiante en la **UTT** – Carrera en **Desarrollo de Software Multiplataforma** (recién egresado de TSU).  
-💻 Apasionado por el **desarrollo de software**, la **administración de servidores** y la **tecnología en la nube**.  
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=👋%20Hola%2C%20soy%20Sebastian!&fontSize=40&fontAlignY=35&desc=Fullstack%20Developer%20|%20IoT%20Enthusiast%20|%20Cloud%20&descAlignY=55&descAlign=50" />
+</p>
 
 ---
 
 ## 🚀 Sobre mí  
-- 🔹 Actualmente enfocado en crecer como **Fullstack Developer**.  
+🎓 Estudiante en la **UTT** – Carrera en **Desarrollo de Software Multiplataforma** (recién egresado de TSU).  
+💻 Apasionado por el **desarrollo de software**, la **administración de servidores** y la **tecnología en la nube**.  
+
+- 🔹 Enfocado en crecer como **Fullstack Developer**.  
 - 🔹 Experiencia en desarrollo **web, móvil, IoT y backend**.  
 - 🔹 Me gusta crear soluciones completas: desde el diseño en Figma hasta el despliegue en servidores.  
-- 🔹 Objetivo: trabajar en proyectos que combinen **innovación, escalabilidad y buen diseño**.  
+- 🎯 Objetivo: trabajar en proyectos que combinen **innovación, escalabilidad y buen diseño**.  
 
 ---
 
@@ -29,12 +32,28 @@
 
 ---
 
-## 📊 Estadísticas de GitHub  
-![Sebas GitHub stats](https://github-readme-stats.vercel.app/api?username=SEBASTIAN-USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEBASTIAN-USERNAME&layout=compact&theme=radical)  
+## 📊 Mis estadísticas en GitHub  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SebastianRdzC04&show_icons=true&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianRdzC04&layout=compact&theme=radical" height="180em" />
+</p>
 
 ---
 
 ## 🌐 Conecta conmigo  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-LINKEDIN)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://TU-PORTFOLIO.com)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/sebastian-rodriguez-contreras-906a43340/">
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://TU-PORTFOLIO.com">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
