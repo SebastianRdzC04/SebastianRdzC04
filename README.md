@@ -46,7 +46,7 @@
   <a href="https://www.linkedin.com/in/sebastian-rodriguez-contreras-906a43340/">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://TU-PORTFOLIO.com">
+  <a href="https://portfolio.kysedomi.lat">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
