@@ -19,10 +19,10 @@
 ## 🛠️ Tecnologías y Herramientas  
 
 **Lenguajes:**  
-`Python` · `TypeScript` · `JavaScript` · `Java` · `C#` · `C++` · `PHP` · `Kotlin` · `Swift (Storyboard)` · `SQL` · `MongoDB`  
+`Python` · `TypeScript` · `JavaScript` · `C#` · `C++` · `PHP` · `Kotlin` · `Swift (Storyboard)` · `SQL` · `MongoDB`  
 
 **Frameworks & Plataformas:**  
-`FastAPI` · `Django` · `AdonisJS` · `Astro` · `Angular` · `React` · `Vue` · `Laravel`  
+`FastAPI` · `Django` · `AdonisJS` · `Astro` · `Angular` · `React` · `React Native` · `Vue` · `Laravel`  
 
 **DevOps & Cloud:**  
 `Docker` · `AWS` · `Cloudflare` · `Despliegue de Servidores`  
@@ -35,8 +35,8 @@
 ## 📊 Mis estadísticas en GitHub  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SebastianRdzC04&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianRdzC04&layout=compact&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SebastianRdzC04&show_icons=true&theme=radical&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianRdzC04&layout=compact&theme=radical&hide_border=true" height="180em" />
 </p>
 
 ---
@@ -46,7 +46,7 @@
   <a href="https://www.linkedin.com/in/sebastian-rodriguez-contreras-906a43340/">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://portfolio.kysedomi.lat">
+  <a href="https://devas.sbs">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
